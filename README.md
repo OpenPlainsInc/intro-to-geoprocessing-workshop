@@ -1,6 +1,6 @@
 # intro-to-geoprocessing-workshop
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomorrownow/intro-to-geoprocessing-workshop/blob/main/geoprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomorrownow/intro-to-geoprocessing-workshop/blob/main/ncssm_workshop.ipynb)
 
 Introduction to geoprocessing with GRASS GIS workshop.
 
