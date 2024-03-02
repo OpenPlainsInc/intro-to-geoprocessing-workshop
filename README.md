@@ -4,6 +4,8 @@
 
 Introduction to geoprocessing with GRASS GIS workshop.
 
+![qr](./images/qr_code.png)
+
 * ncssm_workshop.ipynd - Workshop material for SMathHacks March 2nd, 2024
 
 * ncssm_data_prep.ipynd - Data preperation for SMathHacks workshop
