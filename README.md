@@ -16,11 +16,9 @@ Introduction to geoprocessing with [GRASS GIS](https://grass.osgeo.org/) worksho
 
 ## Notebooks
 
-* ncssm_workshop.ipynd - Workshop material for SMathHacks March 2nd, 2024
-
-* ncssm_data_prep.ipynd - Data preperation for SMathHacks workshop
-
-* geoprocessing.ipynb - WIP
+* [ncssm_workshop.ipynb](ncssm_workshop.ipynb) - Workshop material for SMathHacks March 2nd, 2024
+* [ncssm_data_prep.ipynb](ncssm_data_prep.ipynb) - Data preperation for SMathHacks workshop
+* [geoprocessing.ipynb](geoprocessing.ipynb) - WIP
 
 At the end of the workshop you will have create a web map showing a 5m flood innundation event at NCSSM.
 
