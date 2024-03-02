@@ -10,7 +10,7 @@ Introduction to geoprocessing with [GRASS GIS](https://grass.osgeo.org/) worksho
 * [GRASS Python API Docs:](https://grass.osgeo.org/grass83/manuals/libpython/index.html)
 * [GRASS C API Docs:](https://grass.osgeo.org/programming8/)
 * [GRASS Tools:](https://grass.osgeo.org/grass83/manuals/general.html)
-*[GRASS Add-ons:](https://grass.osgeo.org/grass83/manuals/addons/)
+* [GRASS Add-ons:](https://grass.osgeo.org/grass83/manuals/addons/)
 
 <!-- ![qr](./images/qr_code.png) -->
 
