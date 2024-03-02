@@ -1,6 +1,6 @@
 # Intro to Geoprocessing Workshop
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomorrownow/intro-to-geoprocessing-workshop/blob/main/ncssm_workshop.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomorrownow/intro-to-geoprocessing-workshop/blob/main/ncssm_workshop.ipynb)[![DOI](https://zenodo.org/badge/756914869.svg)](https://zenodo.org/doi/10.5281/zenodo.10764925)
 
 Introduction to geoprocessing with [GRASS GIS](https://grass.osgeo.org/) workshop.
 
